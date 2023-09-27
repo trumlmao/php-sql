@@ -25,7 +25,7 @@
         <span><?php echo htmlspecialchars($product_description); ?></span><br>
 
         <label>List Price:</label>
-        <span><?php echo htmlspecialchars($list_price_formatf); ?></span><br>
+        <span><?php echo htmlspecialchars($list_price_format); ?></span><br>
 
         <label>Standard Discount:</label>
         <span><?php echo htmlspecialchars($discount_percent_format); ?></span><br>
